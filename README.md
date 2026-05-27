@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pedram</h1>
+<h1 align="center">Hi , I'm Pedram</h1>
 <h3 align="center">Backend Developer | Iran</h3>
 
 <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="408" height="318" />
