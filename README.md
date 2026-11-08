@@ -1,8 +1,32 @@
-<h1 align="center">Hi , I'm Pedram</h1>
-<h3 align="center">Backend Developer | Iran</h3>
-
-<img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="408" height="318" />
-
-<h4 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/> </a> <a href="https://www.angular.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="50" height="50"/> </a><a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="50" height="50"/> </a> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="50" height="50"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="50" height="50"/> </a> </p></br>
-  
-![Top Langs](https://github-status.vercel.app/api/top-langs/?username=pedramalizade&layout=compact&theme=github_dark&hide_border=true&size_weight=0.5&count_weight=0.5)
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:6E40C9&height=190&section=header&text=Hi,%20I'm%20Pedram%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20%7C%20.NET%20%7C%20Iran&descAlignY=59&descSize=18" alt="Pedram GitHub header" />  <p>
+    <strong>Building reliable backends, thoughtful APIs, and maintainable software.</strong>
+  </p>
+</div>👨‍💻 About me
+- 💻 Backend developer focused on C# and ASP.NET Core
+- 🧩 Building enterprise applications, REST APIs, and business workflows
+- 🗃️ Working with Entity Framework Core, PostgreSQL, and SQL Server
+- 🌐 Comfortable collaborating across the stack with Angular
+- 🏗️ Interested in clean architecture, maintainable code, and performance
+- 🔐 Currently exploring web security (XSS, CSRF, CORS) and Python-based research
+🛠️ Tech stack
+Backend & languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python&theme=dark" alt="C#, .NET, Python" />
+</p>
+Frontend, databases & tools
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,postgres,docker,git,github,postman,rabbitmq,visualstudio&perline=8&theme=dark" alt="Angular, PostgreSQL, Docker, Git, GitHub, Postman, RabbitMQ, Visual Studio" />
+</p><p>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
+  <img src="https://img.shields.io/badge/AutoMapper-39477F?style=flat-square" alt="AutoMapper" />
+  <img src="https://img.shields.io/badge/DevExtreme-FF7200?style=flat-square" alt="DevExtreme" />
+</p>⚙️ What I work on
+Backend development     →  ASP.NET Core · RESTful APIs · Business Logic
+Data & persistence      →  EF Core · LINQ · SQL Server · PostgreSQL
+Frontend integration    →  Angular · DevExtreme
+Engineering practices   →  Dependency Injection · Repository Pattern · Git
+<div align="center">
+  <i>Always learning. Always building.</i>
+</div>
